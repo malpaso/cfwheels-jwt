@@ -1,0 +1,15 @@
+{
+    "name":"CFWheels JWT",
+    "version":"0.0.1",
+    "author":"Bill Tindal",
+    "location":"malpaso/cfwheels-jwt",
+    "directory":"/plugins/",
+    "createPackageDirectory":true,
+    "packageDirectory":"CFWheelsJWT",
+    "homepage":"https://github.com/malpaso/cfwheels-jwt",
+    "slug":"cfwheels-jwt",
+    "shortDescription":"CFWheels Json Web Tokens",
+    "type":"cfwheels-plugins",
+    "keywords":"jwt",
+    "private":false
+}
